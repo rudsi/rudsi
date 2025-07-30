@@ -1,4 +1,4 @@
-## Hi there! It's Rudra
+## Hi there! It's Rudra. 
 
 <!--
 **rudsi/rudsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
